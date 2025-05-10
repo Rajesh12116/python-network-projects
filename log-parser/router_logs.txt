@@ -1,0 +1,5 @@
+Feb 20 10:01:15 Router1 Interface GigabitEthernet0/1 changed state to down
+Feb 20 10:01:16 Router1 Interface GigabitEthernet0/1 changed state to up
+Feb 20 10:02:05 Router1 Interface GigabitEthernet0/2 changed state to down
+Feb 20 10:02:15 Router1 Interface GigabitEthernet0/3 changed state to up
+Feb 20 10:03:45 Router1 Interface GigabitEthernet0/4 changed state to down
